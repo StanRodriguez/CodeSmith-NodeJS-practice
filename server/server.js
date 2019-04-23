@@ -1,6 +1,6 @@
 const http = require("http");
 const fs = require("fs");
-const path = require("path");
+// const path = require("path");
 
 const server = http
   .createServer((request, response) => {
